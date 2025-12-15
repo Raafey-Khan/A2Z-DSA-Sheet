@@ -6,4 +6,5 @@ int main() {
     cin >> x >> y;
     cout << "Value of x: " << x << " and y: " << y << endl;
     return 0;
+    // this is a comment
 }
